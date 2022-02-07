@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/layout1"
+        android:icon="@drawable/outline_notifications_white_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        app:titleTextColor="@color/white"
+        app:subtitleTextColor="@color/white"
+        android:title="@string/notif"/>
+    <item
+        android:id="@+id/layout"
+        android:icon="@drawable/outline_logout_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="ifRoom" />
+</menu>

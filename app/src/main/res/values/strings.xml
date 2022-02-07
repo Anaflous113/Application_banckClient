@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Amane Bank</string>
+    <string name="title_activity_historique">Historique</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="mes_comptes">Mes comptes</string>
+    <string name="logout">logout</string>
+    <string name="notif">logout</string>
+    <string-array name="motif">
+        <item>Soutien familial</item>
+        <item>Epargne/investissement </item>
+        <item>Cadeau</item>
+        <item>Paiement de biens et de services</item>
+        <item>Frais de dépassement </item>
+        <item>Frais d’éducation</item>
+        <item>Location/Hypothèque</item>
+        <item>Aide de secours/Médicale</item>
+        <item>Revenu d’un site internet</item>
+        <item>Dépenses salariales </item>
+        <item>Frais de loterie ou récompense/taxes</item>
+        <item>Prêt </item>
+        <item>Commerce sur internet</item>
+        <item>Donation</item>
+        <item>Autres (à préciser)</item>
+    </string-array>
+</resources>
